@@ -40,7 +40,7 @@ An embedded system project developed for our first-year Engineering Clinics that
 
 ## 💻 Code File
 
-The main Arduino sketch is in [main.ino](main.ino). Upload it using Arduino IDE.
+The main Arduino sketch is in [vit_accident_prevention_and_reporting_system_oct_23.ino](vit_accident_prevention_and_reporting_system_oct_23.ino). Upload it using Arduino IDE.
 
 ## 📷 Circuit Diagram (Optional)
 
